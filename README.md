@@ -40,7 +40,7 @@ If your Mac is running patched macOS, there **should** be the latest natively su
 2. Open config.plist
     - macOS: /Volumes/EFI/EFI/OC/config.plist
     - Windows: X:\EFI\EFI\OC\config.plist
-        <img src="files/config-plist.png" width="85%">
+        <img src="files/config-plist.png">
 
 > [!IMPORTANT]
 > The letter of mount point on Windows may be different for you!
@@ -88,7 +88,7 @@ In this case, it is much easier to boot Sequoia beta.
 2. Open config.plist
     - macOS: /Volumes/EFI/EFI/OC/config.plist
     - Windows: X:\EFI\EFI\OC\config.plist
-    <img src="files/config-plist.png" width="85%">
+    <img src="files/config-plist.png">
 
 > [!IMPORTANT]
 > The letter of mount point on Windows may be different for you!
