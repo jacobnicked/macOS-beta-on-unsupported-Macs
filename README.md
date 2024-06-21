@@ -68,7 +68,7 @@ If your Mac is running patched macOS, there **should** be the latest natively su
     - FeatureUnlock.kext and type ```23.9.9```
     - CryptexFixup.kext and type ```23.9.9```
     <br>
-    <img src="files/maxkernel_example.png" width="65%">
+    <img src="files/maxkernel_example.png" width="95%">
 
 8. Press Enter, save changes (Cmd ⌘/Ctrl + S or the diskette icon on the top).
 9. You can now try to boot macOS Sonoma beta!
