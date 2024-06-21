@@ -2,6 +2,8 @@
 
 Tutorial on booting the newest macOS beta on unsupported Macs without OCLP's support
 
+<img src="files/macos15-oclp.png">
+
 ## Introduction
 <p>New versions of macOS are announced in June and Apple on the day of WWDC after the conference releases a macOS beta installer and the final release of the new macOS version in the fall.</p>
 <p>Support for macOS 11 and newer for unsupported Macs is provided by Open Core Legacy Patcher that does not immediately support the new macOS version - there is a lot of work to do to achieve full support.</p>
