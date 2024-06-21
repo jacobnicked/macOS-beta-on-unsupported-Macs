@@ -114,13 +114,13 @@ In this case, it is much easier to boot Sequoia beta.
 
 ### OCAuxiliaryTools
 1. Download OCAuxiliaryTools from <a href="https://github.com/ic005k/OCAuxiliaryTools">here</a>.
-    <img src="files/OCAuxiliaryTools.png" width="95%">
+    <img src="files/OCAuxiliaryTools.png">
 2. Open it and press Cmd ⌘/Ctrl + M
 3. Select the EFI partition and type your password if prompted
     <img src="files/selectEFIpartition.png" width="75%">
 4. Press Cmd ⌘/Ctrl + 6 or click Edit → Upgrade OpenCore and Kexts
 5. Click "Start Sync" and later "Check for Kexts updates" and "Update Kexts".
-    <img src="files/upgradeocandkexts.png" width="95%">
+    <img src="files/upgradeocandkexts.png">
 6. The end!
 
 <hr>
